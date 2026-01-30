@@ -20,7 +20,7 @@ Projeto de Visão Computacional utilizando YOLOv8 para detecção automatizada e
 
 🔹 **Assistente para Defesa de TCC**  
 Aplicação web offline com cronômetro, checklist e controle de notas para apresentação acadêmica.  
-➡️ [Ver repositório](link)
+➡️ [Ver repositório](https://github.com/Hiann/cronometro-tcc)
 
 ## 📫 Contato
 - LinkedIn: link
