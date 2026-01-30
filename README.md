@@ -15,7 +15,8 @@
 ## 📌 Projetos em Destaque
 🔹 **TCC – Detecção de Anaplasma em Plaquetas**  
 Projeto de Visão Computacional utilizando YOLOv8 para detecção automatizada em imagens laboratoriais.  
-➡️ [Ver repositório](link)
+➡️ [Ver repositório](https://github.com/Hiann/TCC-Deteccao-Plaquetas
+)
 
 🔹 **Assistente para Defesa de TCC**  
 Aplicação web offline com cronômetro, checklist e controle de notas para apresentação acadêmica.  
