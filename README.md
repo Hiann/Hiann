@@ -1,29 +1,40 @@
 <div align="center">
 
-# Hiann Alexander Mendes de Oliveira👋
+# Hiann Alexander Mendes de Oliveira 👋
 
-🎓 **Sistemas de Informação** | Conclusão prevista: **Março de 2026**  
+🎓 **Sistemas de Informação** — conclusão prevista: **março/2026**  
 💻 **Python • Visão Computacional • Desenvolvimento de Software**  
-🚀 Projetos acadêmicos aplicados e soluções práticas
+🚀 Projetos aplicados, foco em qualidade, organização e boas práticas
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
-Estudante de Sistemas de Informação com atuação em programação e análise de sistemas. Possui experiência prática em projetos acadêmicos e estágio utilizando Python, Java e desenvolvimento Web (HTML/CSS), com integração a bancos de dados como SQL Server, MySQL e MongoDB. Atua na manutenção de sistemas, correção de erros e implementação de funcionalidades seguindo boas práticas de código e metodologias ágeis (Scrum). Possui vivência acadêmica em Inteligência Artificial, desenvolvendo modelos de Deep Learning e Visão Computacional.
+## 👨‍💻 Sobre mim
+Estudante de **Sistemas de Informação**, com atuação em **programação, análise e manutenção de sistemas**.  
+Experiência prática em **projetos acadêmicos e estágio**, desenvolvendo soluções em **Python, Java e aplicações Web (HTML/CSS)**, com integração a bancos de dados **SQL Server, MySQL e MongoDB**.
+
+Possuo vivência em **metodologias ágeis (Scrum)**, atuando na correção de erros, implementação de funcionalidades e melhoria contínua de sistemas, seguindo **boas práticas de código**.  
+Interesse contínuo em **Inteligência Artificial**, com foco em **Deep Learning e Visão Computacional**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
+
 <p align="center">
 
-🐍 Python &nbsp;|&nbsp;
-👁️ OpenCV &nbsp;|&nbsp;
-🧠 YOLOv8 &nbsp;|&nbsp;
-🌱 Git & GitHub &nbsp;|&nbsp;
-⚡ Scrum &nbsp;|&nbsp;
-📋 Jira
+<strong>Linguagens & Bibliotecas</strong><br/>
+Python • Java • OpenCV • YOLOv8
+
+<br/><br/>
+
+<strong>Banco de Dados</strong><br/>
+SQL Server • MySQL • MongoDB
+
+<br/><br/>
+
+<strong>Ferramentas & Metodologias</strong><br/>
+Git • GitHub • Scrum • Jira
 
 </p>
 
@@ -32,8 +43,8 @@ Estudante de Sistemas de Informação com atuação em programação e análise 
 ## 📌 Projetos em Destaque
 
 ### 🔹 TCC — Detecção de Anaplasma em Plaquetas
-Projeto de **Visão Computacional** utilizando **YOLOv8** para detecção automatizada  
-de estruturas em imagens laboratoriais.
+Projeto de **Visão Computacional** voltado à detecção automatizada de estruturas
+em imagens laboratoriais, utilizando **YOLOv8** e técnicas de Deep Learning.
 
 🔗 **Repositório:**  
 👉 https://github.com/Hiann/TCC-Deteccao-Plaquetas
@@ -41,15 +52,16 @@ de estruturas em imagens laboratoriais.
 ---
 
 ### 🔹 Assistente para Defesa de TCC
-Aplicação web **offline** desenvolvida para apoiar apresentações acadêmicas,  
-com cronômetro, checklist, controle de notas e organização da banca.
+Aplicação web **offline** desenvolvida para apoio a apresentações acadêmicas,
+com funcionalidades de cronômetro, checklist, controle de notas e organização da banca.
 
 🔗 **Repositório:**  
 👉 https://github.com/Hiann/cronometro-tcc
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Contato
+
 <p align="center">
 
 💼 <a href="https://www.linkedin.com/in/hiann-alexander">LinkedIn</a> &nbsp;•&nbsp;
