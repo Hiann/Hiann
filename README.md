@@ -23,5 +23,5 @@ Aplicação web offline com cronômetro, checklist e controle de notas para apre
 ➡️ [Ver repositório](https://github.com/Hiann/cronometro-tcc)
 
 ## 📫 Contato
-- LinkedIn: link
+- LinkedIn: www.linkedin.com/in/hiann-alexander
 - GitHub: https://github.com/Hiann
