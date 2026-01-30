@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hiann Alexander 👋
 
-<!--
-**Hiann/Hiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em Ciência da Computação (conclusão prevista para 2026)  
+💻 Desenvolvedor com foco em Python, Visão Computacional e projetos acadêmicos aplicados  
+🚀 Interesse em desenvolvimento de software, dados e IA
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Python
+- OpenCV
+- YOLOv8
+- Git & GitHub
+- Metodologias Ágeis (Scrum)
+- Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque
+🔹 **TCC – Detecção de Anaplasma em Plaquetas**  
+Projeto de Visão Computacional utilizando YOLOv8 para detecção automatizada em imagens laboratoriais.  
+➡️ [Ver repositório](link)
+
+🔹 **Assistente para Defesa de TCC**  
+Aplicação web offline com cronômetro, checklist e controle de notas para apresentação acadêmica.  
+➡️ [Ver repositório](link)
+
+## 📫 Contato
+- LinkedIn: link
+- GitHub: https://github.com/Hiann
