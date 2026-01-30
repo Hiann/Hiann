@@ -2,7 +2,7 @@
 
 # Hiann Alexander Mendes de Oliveira 👋
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Hiann-black?style=flat-square&logo=github)
 ![Status](https://img.shields.io/badge/Status-Acadêmico-lightgrey?style=flat-square)
 
@@ -47,7 +47,7 @@ Git • GitHub • Scrum • Jira
 ## 📌 Projetos em Destaque
 
 ### 🔹 TCC — Detecção de Anaplasma em Plaquetas
-Projeto de **Visão Computacional** voltado à detecção automatizada de estruturas
+Projeto de **Visão Computacional** voltado à detecção automatizada de estruturas  
 em imagens laboratoriais, utilizando **YOLOv8** e técnicas de Deep Learning.
 
 🔗 **Repositório:**  
@@ -56,7 +56,7 @@ em imagens laboratoriais, utilizando **YOLOv8** e técnicas de Deep Learning.
 ---
 
 ### 🔹 Assistente para Defesa de TCC
-Aplicação web **offline** desenvolvida para apoio a apresentações acadêmicas,
+Aplicação web **offline** desenvolvida para apoio a apresentações acadêmicas,  
 com funcionalidades de cronômetro, checklist, controle de notas e organização da banca.
 
 🔗 **Repositório:**  
