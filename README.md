@@ -2,6 +2,10 @@
 
 # Hiann Alexander Mendes de Oliveira 👋
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Hiann-black?style=flat-square&logo=github)
+![Status](https://img.shields.io/badge/Status-Acadêmico-lightgrey?style=flat-square)
+
 🎓 **Sistemas de Informação** — conclusão prevista: **março/2026**  
 💻 **Python • Visão Computacional • Desenvolvimento de Software**  
 🚀 Projetos aplicados, foco em qualidade, organização e boas práticas
@@ -14,7 +18,7 @@
 Estudante de **Sistemas de Informação**, com atuação em **programação, análise e manutenção de sistemas**.  
 Experiência prática em **projetos acadêmicos e estágio**, desenvolvendo soluções em **Python, Java e aplicações Web (HTML/CSS)**, com integração a bancos de dados **SQL Server, MySQL e MongoDB**.
 
-Possuo vivência em **metodologias ágeis (Scrum)**, atuando na correção de erros, implementação de funcionalidades e melhoria contínua de sistemas, seguindo **boas práticas de código**.  
+Vivência em **metodologias ágeis (Scrum)**, atuando na correção de erros, implementação de funcionalidades e melhoria contínua de sistemas, seguindo **boas práticas de código**.  
 Interesse contínuo em **Inteligência Artificial**, com foco em **Deep Learning e Visão Computacional**.
 
 ---
@@ -28,7 +32,7 @@ Python • Java • OpenCV • YOLOv8
 
 <br/><br/>
 
-<strong>Banco de Dados</strong><br/>
+<strong>Bancos de Dados</strong><br/>
 SQL Server • MySQL • MongoDB
 
 <br/><br/>
