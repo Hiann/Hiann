@@ -34,7 +34,6 @@ Python • Java • OpenCV • YOLOv8
 <strong>Bancos de Dados</strong><br/>
 SQL Server • MySQL • MongoDB
 
-<br/><br/>
 
 <strong>Ferramentas & Metodologias</strong><br/>
 Git • GitHub • Scrum • Jira
