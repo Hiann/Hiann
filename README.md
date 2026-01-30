@@ -30,12 +30,10 @@ Interesse contínuo em **Inteligência Artificial**, com foco em **Deep Learning
 <strong>Linguagens & Bibliotecas</strong><br/>
 Python • Java • OpenCV • YOLOv8
 
-<br/><br/>
 
 <strong>Bancos de Dados</strong><br/>
 SQL Server • MySQL • MongoDB
 
-<br/><br/>
 
 <strong>Ferramentas & Metodologias</strong><br/>
 Git • GitHub • Scrum • Jira
