@@ -1,27 +1,58 @@
-# Hiann Alexander 👋
+<div align="center">
 
-🎓 Graduando em Ciência da Computação (conclusão prevista para 2026)  
-💻 Desenvolvedor com foco em Python, Visão Computacional e projetos acadêmicos aplicados  
-🚀 Interesse em desenvolvimento de software, dados e IA
+# Hiann Alexander Mendes de Oliveira👋
+
+🎓 **Sistemas de Informação** | Conclusão prevista: **Março de 2026**  
+💻 **Python • Visão Computacional • Desenvolvimento de Software**  
+🚀 Projetos acadêmicos aplicados e soluções práticas
+
+</div>
+
+---
+
+## 🧠 Sobre mim
+Estudante de Sistemas de Informação com atuação em programação e análise de sistemas. Possui experiência prática em projetos acadêmicos e estágio utilizando Python, Java e desenvolvimento Web (HTML/CSS), com integração a bancos de dados como SQL Server, MySQL e MongoDB. Atua na manutenção de sistemas, correção de erros e implementação de funcionalidades seguindo boas práticas de código e metodologias ágeis (Scrum). Possui vivência acadêmica em Inteligência Artificial, desenvolvendo modelos de Deep Learning e Visão Computacional.
+
+---
 
 ## 🛠️ Tecnologias
-- Python
-- OpenCV
-- YOLOv8
-- Git & GitHub
-- Metodologias Ágeis (Scrum)
-- Jira
+<p align="center">
+
+🐍 Python &nbsp;|&nbsp;
+👁️ OpenCV &nbsp;|&nbsp;
+🧠 YOLOv8 &nbsp;|&nbsp;
+🌱 Git & GitHub &nbsp;|&nbsp;
+⚡ Scrum &nbsp;|&nbsp;
+📋 Jira
+
+</p>
+
+---
 
 ## 📌 Projetos em Destaque
-🔹 **TCC – Detecção de Anaplasma em Plaquetas**  
-Projeto de Visão Computacional utilizando YOLOv8 para detecção automatizada em imagens laboratoriais.  
-➡️ [Ver repositório](https://github.com/Hiann/TCC-Deteccao-Plaquetas
-)
 
-🔹 **Assistente para Defesa de TCC**  
-Aplicação web offline com cronômetro, checklist e controle de notas para apresentação acadêmica.  
-➡️ [Ver repositório](https://github.com/Hiann/cronometro-tcc)
+### 🔹 TCC — Detecção de Anaplasma em Plaquetas
+Projeto de **Visão Computacional** utilizando **YOLOv8** para detecção automatizada  
+de estruturas em imagens laboratoriais.
 
-## 📫 Contato
-- LinkedIn: www.linkedin.com/in/hiann-alexander
-- GitHub: https://github.com/Hiann
+🔗 **Repositório:**  
+👉 https://github.com/Hiann/TCC-Deteccao-Plaquetas
+
+---
+
+### 🔹 Assistente para Defesa de TCC
+Aplicação web **offline** desenvolvida para apoiar apresentações acadêmicas,  
+com cronômetro, checklist, controle de notas e organização da banca.
+
+🔗 **Repositório:**  
+👉 https://github.com/Hiann/cronometro-tcc
+
+---
+
+## 📫 Vamos conversar?
+<p align="center">
+
+💼 <a href="https://www.linkedin.com/in/hiann-alexander">LinkedIn</a> &nbsp;•&nbsp;
+💻 <a href="https://github.com/Hiann">GitHub</a>
+
+</p>
