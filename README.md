@@ -64,4 +64,9 @@ com funcionalidades de cronômetro, checklist, controle de notas e organização
 
 ## 📫 Contato
 
-<a href="https://www.linkedin.com/in/hiann-alexander" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hiann-alexander" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+</div
